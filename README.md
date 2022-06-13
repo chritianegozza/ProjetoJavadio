@@ -18,9 +18,11 @@
 
 Esse projeto foi efetuado no bootcamp da dio, onde fizemos uma transação bancária, com saldo, deposito, conta corrente, 
 conta poupança, extrato.
+Projeto construido é Criando um Banco Digital com Java e Orientação a Objetos, usando conceitos de  Orientação a Objetos.
 *****************************************************************************************************************************************************************
 🧩 Linguagem
 
 Java
 
 ****************************************************************************************************************************************************************
+Caso você queria conhecer a mentoria do professor veja[aqui!](https://github.com/falvojr/lab-banco-digital-oo).
